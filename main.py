@@ -2,7 +2,7 @@ import os
 import datetime as dt
 import shutil
 
-source_dir = "/Users/oli/Temporary"
+source_dir = "YOUR PATH"
 trash_dir = os.path.expanduser('~/.Trash')
 
 
